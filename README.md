@@ -7,8 +7,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: bellatamyksu@gmail.com
 - 🎯 2021 Goals: 
--    🔹 codewars - get 4500 honor
--    🔹 fiverr - get experience programming with Pygame and offer to build games with pygame
--    🔹 find programming position [web, android, python]
+-        🔹 codewars - get 4500 honor
+-        🔹 fiverr - get experience programming with Pygame and offer to build games with pygame
+-        🔹 find programming position [web, android, python]
     
 
