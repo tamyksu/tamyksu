@@ -7,7 +7,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: bellatamyksu@gmail.com
 - 🎯 2021 Goals: 
--        🔹 codewars - get 4500 honor- currently I have 43
+-        🔹 codewars - get 4500 honor- currently I have 43-->61
 -        🔹 fiverr - get experience programming with Pygame and offer to build games with pygame
 -        🔹 find programming position [web, android, python]
     
