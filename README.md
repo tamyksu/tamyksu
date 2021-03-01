@@ -9,7 +9,7 @@
 - 🎯 2021 Goals: 
 -        🔹 codewars - get 4500 honor- currently I have 140
 -        🔹 fiverr - get experience programming with Pygame and offer to build games with pygame
--        🔹 find programming position [web, android, python]
+-        🔹 find programming position
 
 ## 🧰 Languages and Tools:
 <p align="center">
