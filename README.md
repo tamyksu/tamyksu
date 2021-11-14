@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently software engineering student
-- 👯 I’m looking to collaborate with curious pepole that instrested in programming (web, applications, AI->ML->DL)
+- 👯 I’m looking to collaborate with curious pepole that instrested in programming (Python, Java)
 - 📫 How to reach me: bellatamyksu@gmail.com
 
 
