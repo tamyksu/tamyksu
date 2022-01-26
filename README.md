@@ -2,8 +2,8 @@
 
 
 - 🌱 I’m currently software engineering student
-- 👯 I’m looking to collaborate with curious pepole that instrested in programming (Python, Java)
-- 📫 How to reach me: bellatamyksu@gmail.com
+- 👯 I’m looking to collaborate with curious pepole that instrested in programming 
+- 📫 How to reach me: bellatamyksu@gmail.co
 
 
 ## 🧰 Languages and Tools:
