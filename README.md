@@ -1,7 +1,7 @@
 ### Hi there, I'm Tamy😀
 
 
-- 🌱 I’m currently software engineering student
+- 🌱 I’m graduated software engineer
 - 👯 I’m looking to collaborate with curious pepole that instrested in programming 
 - 📫 How to reach me: bellatamyksu@gmail.co
 
