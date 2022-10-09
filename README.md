@@ -1,4 +1,4 @@
-### Hi there, I'm Tamy😀
+### Hi there, I'm Tamy ^^
 
 
 - 🌱 I’m graduated software engineer
