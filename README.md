@@ -2,8 +2,7 @@
 
 
 - 🌱 I’m a software engineer
-- 👯 I’m looking to collaborate with curious pepole that instrested in programming 
-- 📫 How to reach me: bellatamyksu@gmail.co
+- 📫 How to reach me: bellatamyksu@gmail.com
 
 
 ## 🧰 Languages and Tools:
