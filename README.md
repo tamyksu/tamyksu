@@ -1,4 +1,4 @@
-### Hi there, I'm Tamy ^^
+![image](https://user-images.githubusercontent.com/57362830/209463881-03e5f63b-e26c-4598-a3aa-5bdb18a1c7de.png)
 
 
 - 🌱 I’m a software engineer
